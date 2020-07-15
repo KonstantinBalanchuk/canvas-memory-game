@@ -1,0 +1,24 @@
+{
+  "name": "canvas-memory-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/canvas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KonstantinBalanchuk/canvas-memory-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KonstantinBalanchuk/canvas-memory-game/issues"
+  },
+  "homepage": "https://github.com/KonstantinBalanchuk/canvas-memory-game#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
